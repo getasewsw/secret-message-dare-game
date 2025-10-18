@@ -1,0 +1,16 @@
+{
+  "name": "secret-message-dare-game",
+  "version": "1.0.0",
+  "description": "A secret message dare game with database storage",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "dev": "echo 'Open index.html in browser'"
+  },
+  "dependencies": {
+    "postgres": "^3.4.3"
+  },
+  "keywords": ["game", "dare", "secret-message", "netlify"],
+  "author": "Your Name",
+  "license": "MIT"
+}
